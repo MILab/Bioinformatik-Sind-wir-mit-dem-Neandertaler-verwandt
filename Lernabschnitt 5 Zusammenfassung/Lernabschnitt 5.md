@@ -3,7 +3,7 @@
 Die  Schülerinnen und Schüler finden auf ihren Rechnern drei Genomsequenzen  (lediglich Ausschnitte, da die gesamte Sequenz zu lange dauern würde),  von einem Neandertaler, einem Europäer und einem Afrikaner. (Die Sequenz  von dem Neandertaler ist real, während wir die Sequenzen von Europäer  und Afrikaner lediglich evolutionär simuliert haben, was den Schülern  aber nicht verraten werden muss.)
 Sie führen den Java-Code aus und benutzen jeweils zwei der Sequenzen als Eingabe.
 Die  Lehrkraft erfragt von den Schülern, was die Ausgabe bedeutet und es  wird herausgefunden, dass der Neandertaler mehr Ähnlichkeiten mit dem  Europäer als mit dem Afrikaner besitzt. (Selbst kleine Unterschiede in  der Punktzahl können signifikant sein.)
-Der  Lehrer fragt die Schüler wie dies sein kann und zeigt anschließend eine  Weltkarte mit Afrika und Europa und lässt die Schüler Hypothesen über  die evolutionshistorische Entwicklung von Homo Sapiens und  Neandertaler aufstellen.
+Der  Lehrer fragt die Schüler wie dies sein kann und zeigt anschließend eine  Weltkarte mit Afrika und Europa (weltkarte.jpg, lizensiert nach CC BY-SA 3.0 Saint-Tepes) und lässt die Schüler Hypothesen über  die evolutionshistorische Entwicklung von Homo Sapiens und  Neandertaler aufstellen.
 Mögliche Hilfestellungen/Hinweise: 
 
     Woher kommt der Homo Sapiens? (Out-of-Africa Hypothese ist recht bekannt-> Der Homo Sapiens ist anschließend nach Europa eingewandert.) 
