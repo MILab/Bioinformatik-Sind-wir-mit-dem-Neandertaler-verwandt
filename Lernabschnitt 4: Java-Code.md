@@ -58,3 +58,9 @@ Hier sollen die SchülerInnen Methodennamen zu den gegebenen Funktionen finden. 
 
 
 #### Diagnose 
+
+An diese Phase sollte eine Auswertungsphase angeschlossen werden in der der Lernstand erfasst wird
+
+Zur Version 1:
+
+Am Beamer soll der Fehler gezeigt und das Vorgehen bei der Suche und beim Beheben des Fehlers erläutert werden.
