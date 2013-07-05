@@ -1,22 +1,22 @@
 ## Needleman-Wunsch Algorithmus
 #### Durchführung der Einheit:
-DIe SchülerInnen haben in den vorigen Phasen den Sinn der Sequenz- und Genomanalyse erlernt und verstanden. 
-In diesem Abschnitt der Unterrichtseinheit wird ein Algorithmus aus dem Berech der Bioinformatik vorgestellt. 
+Die SchülerInnen haben in den vorigen Phasen den Sinn der Sequenz- und Genomanalyse erlernt und verstanden. 
+In diesem Abschnitt der Unterrichtseinheit wird ein Algorithmus aus dem Bereich der Bioinformatik vorgestellt. 
 Für diesen Teil steht ein Aufgabenblatt mit einer praktischen Übung zur Verfügung.
 
 #### Was soll gelernt werden?
-Die SchülerInnen sollen die Ausführung des Algorithmuses erlernen und verstehen.
+Die SchülerInnen sollen die Ausführung des Algoritmuses erlernen und verstehen.
 
 #### Wozu soll es gelernt werden?
 Mit dem Algorithmus soll ein Beispiel für die praktische Anwendung der Informatik in 
-anderen Bereichen der Wissenschaft gegeben werden. Dieser Teil der Lerneinheit ist auch notwendig 
+anderen Bereichen der Naturwissenschaft gegeben werden. Dieser Teil der Lerneinheit ist auch notwendig 
 um den vierten Teil zu verstehen und durchführen zu können.
 
 #### Welches Hintergrundwissen wird benötigt?
 Biologische Grundlagen zum Thema DNA sollten beim Lehrer vorhanden sein. 
 Die Bedeutung der Abkürzungen die für die einzelnen Basen stehen  sollten ebenso erklärt werden können.
 Falls  die vorigen Unterrichtsphasen nicht durchgeführt und angewendet wurden ist es ebenso möglich den 
-Algorithmus durchzuführen. Dafür kann man beliebigen Text verwenden und demnentsprechend den Übungszettel umschreiben.
+Algorithmus durchzuführen. Dafür kann man beliebigen Text verwenden und dementsprechend den Übungszettel umschreiben.
 
 #### Welche Voraussetzungen gibt es?
 Für die Durchführung dieser Lerneinheit sollte eine Tafel vorhanden sein. 
@@ -34,7 +34,7 @@ welche Zahlen nun verglichen werden sollen um sie in die Formel einzusetzen.
 
 #### Unterrichtsmethoden
 Es wird ein Arbeitsblatt verwendet, welches zuerst von den SchülerInnen selbstständig berechnet werden soll.
-Nachdem alle die Tabelle gefüllt haben, wird das Beispiel auf der Tafel zuende gerechnet.
+Nachdem alle die Tabelle gefüllt haben, wird das Beispiel auf der Tafel zu ende gerechnet.
 
 #### Diagnose 
 
