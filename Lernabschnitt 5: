@@ -1,4 +1,5 @@
 Letzte Phase Anwendung des Algorithmus
+
 ###Durchführung der Einheit:
 Die  Schülerinnen und Schüler finden auf ihren Rechnern drei Genomsequenzen  (lediglich Ausschnitte, da die gesamte Sequenz zu lange dauern würde),  von einem Neandertaler, einem Europäer und einem Afrikaner. (Die Sequenz  von dem Neandertaler ist real, während wir die Sequenzen von Europäer  und Afrikaner lediglich evolutionär simuliert haben, was den Schülern  aber nicht verraten werden muss.)
 Sie führen den Java-Code aus und benutzen jeweils zwei der Sequenzen als Eingabe.
