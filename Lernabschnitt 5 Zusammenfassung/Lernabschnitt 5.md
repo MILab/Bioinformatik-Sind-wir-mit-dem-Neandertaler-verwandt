@@ -13,7 +13,7 @@ Mögliche Hilfestellungen/Hinweise:
     Wie kann es sein, dass der Homo Sapiens, nachdem er in Europa eingewandert ist, Teile vom Neandertaler in sich hat?
 
 Dies soll letztendlich zur Hypothese führen, dass der Homo Sapiens von Afrika nach Europa gegangen ist, dort auf den Neandertaler getroffen ist, mit ihm Sex hatte und sich dadurch vermischt hat. Schließlich hat er sich weiter in Europa und Asien ausgebreitet, doch der Afrikaner kam nie mit dem Neandertaler in Berührung, welcher anschließend ausstarb.
-Diese Hypothese wird in dem Rest des Videos(Quelle mit Angeben) präsentiert, dass am Ende gezeigt wird.
+Diese Hypothese wird in dem Rest des Videos <https://www.youtube.com/watch?v=WnPXZIfEuco> präsentiert, dass am Ende gezeigt wird.
 ###Was soll gelernt werden?
 Der Neandertaler hat mehr Ähnlichkeiten mit dem Europäer als mit dem Afrikaner.
 Die oben erläuterte Hypothese soll möglichst von den Schülern selbst entwickelt und behalten werden.
@@ -24,8 +24,8 @@ Die Lehrkraft sollte die gängige Hypothese zur Vermischung von Neandertaler und
 ###Welche Voraussetzungen gibt es?
 Computer, funktionsfähiger Java-Code und Java-Umgebung zur Ausführung, drei Sequenzen.
 optional: Beamer zur Darstellung der Landkarte mit Touchscreen, um die Hypothesen der Schüler darzustellen, alternativ einfach per Tafelbild
-Möglichkeit Video mit Ton abzuspielen (Quelle)
-Internet :P
+Möglichkeit Video mit Ton abzuspielen
+Internet
 ###Welche Vorkenntnisse werden benötigt?
 Die Schüler sollten wissen, wie man den Java-Code ausführt und wie man anhand der Ausgabe die Verwandtschaft der eingegeben Sequenzen erfährt.
 ###Einflussfaktoren
