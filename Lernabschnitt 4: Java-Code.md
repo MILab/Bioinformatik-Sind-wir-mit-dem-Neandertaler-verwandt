@@ -9,7 +9,7 @@ In dieser Phase beschäftigen sich die SchülerInnen selbstständig mit dem Quel
 
 #### Wozu soll es gelernt werden?
 
-Verküpfung von Umgangssprache bzw. Pseudocode mit dem Java-Code.
+Verkünpfung von Umgangssprache bzw. Pseudocode mit dem Java-Code.
 
 #### Welches Hintergrundwissen wird benötigt?
 
