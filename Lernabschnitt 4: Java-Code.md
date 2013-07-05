@@ -36,10 +36,25 @@ Durchführung des vorherigen Lernabschnitts (Vorkenntnisse zum Algorithmus)
 #### Unterrichtsmethoden
 
 Aufgaben zum Java-Code sind in zwei Schwierigkeitsstufen vorgegeben 
+
 1.Version
 Verständnistiefe: Code und Algorithmus oberflächlich
 
+Fehlerfinden:
+
+Schau dir das folgende Programm an versuche mit den Beispielen aus dem Schreibtischtest die Fehler im Quelltext zu finden und zu berichtigen.
+
+Unterscheidung der SchülerInnen in Initialisierung und Belegung der Matrix anhand der Ausgabe des Programms dafür ist oberflächliches Verständnis des Aufbaus und die Kenntnis der korrekten Formulierung der Berechnung der Teilergebnisse und der Initialisierung nötig.
+
+
 2.Version
-Verständnistiefe: Algorithmus 
+Verständnistiefe: Algorithmus sollte in Teilschritte zerlegt werden können
+
+Oberbegriffe:
+
+Benenne die Methoden a-...  mit sprechenden Bezeichnungen. Überlege dir noch einmal die Zwischenschritte des Algorithmus und versuche die dazugehörigen Methoden zu finden
+
+Hier sollen die SchülerInnen Methodennamen zu den gegebenen Funktionen finden. Dabei ist zunächst eine Entscheidung der Reihenfolge und Strukturierung der Funktionen und dann eine genaue Zuordnung zu den Zwischenschritten des Algorithmus notwendig, dies benötigt ein tieferes Verständnis des Quelltextes und des Java- Codes.
+
 
 #### Diagnose 
