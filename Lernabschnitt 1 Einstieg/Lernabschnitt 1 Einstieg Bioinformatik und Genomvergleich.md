@@ -1,14 +1,14 @@
 # Einführung in die Bioinformatik und der Problemstellung, wie man die Verwandtschaft von Lebewesen messen kann
 ## 1.Phase: Bilderabfrage (was ist Bioinformatik)
 ### Durchführung der Einheit:
-Die SuS sollen sich, aus einer Auswahl von verschiedenen Bildern, jeweils ein Bild pro Person aussuchen und danach kurz vorstellen, warum Sie denken, was das ausgewählte Bild mit der Bioinformatik zu tun hat.
+Die SuS sollen sich, aus einer Auswahl von verschiedenen Bildern, jeweils ein Bild pro Person aussuchen und danach kurz vorstellen, warum Sie denken, was das ausgewählte Bild mit der Bioinformatik zu tun hat. Der Lehrer bringt die Bilder an die Tafel an und ordnet sie grob in Cluster ein, die Bereiche der Bioinformatik repräsentieren.
 #### Was soll gelernt werden?
 Die SuS sollen verstehen, was Bioinformatik ist und in welche Bereiche die Bioinformatik unterteilt ist.
 #### Wozu soll es gelernt werden?
 Um den nachfolgenden Lerninhalt richtig einzuordnen.
 #### Welches Hintergrundwissen wird benötigt?
 Zu den jeweiligen Bildern sollte die Lehrkraft genau wissen, was und in welchem Bereich der Bioinformatik diese einzuordnen sind.
-Bereiche der Bioinformatik
+Die drei großen Bereiche der Bioinformatik sind: Sequenzanalyse, Strukturanalyse, Netzwerkanalyse.
 #### Welche Voraussetzungen gibt es?
 Bilder, Magneten, Kreide, Tafel
 #### Welche Vorkenntnisse werden benötigt?
