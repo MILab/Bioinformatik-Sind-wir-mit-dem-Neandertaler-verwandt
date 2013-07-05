@@ -1,5 +1,5 @@
 ## Needleman-Wunsch Algorithmus
-#### Durchführung:
+#### Durchführung der Einheit:
 Die Durchführung von diesem Teil der Unterrichtsreihe wird in zwei Phasen aufgeteilt. In der ersten sollen Grundlagen zum Algorithmus erklärt und erlernt werden. Diese werden mit einem Arbeitsblatt erarbeitet und von den Schülern auf der Tafel vorgerechnet.
 
 #### Was soll gelernt werden?
