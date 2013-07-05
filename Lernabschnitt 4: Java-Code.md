@@ -18,7 +18,7 @@ NW-Algorithmus würde wahrscheinlich keine Tastertureingabe sondern Dateien vera
 
 #### Welche Voraussetzungen gibt es?
 
-Für die Durchführung dieser Lerneinheit sollt für jeden bzw. für zwei SchülerInnen ein PC mit Javaeditor vorhandensein.  
+Für die Durchführung dieser Lerneinheit sollte für jeden bzw. für zwei SchülerInnen ein PC mit Javaeditor vorhanden sein.  
 
 #### Welche Vorkenntnisse werden benötigt?
 
