@@ -2,7 +2,11 @@
 #### Durchführung der Einheit:
 Die SchülerInnen haben in den vorigen Phasen den Sinn der Sequenz- und Genomanalyse erlernt und verstanden. 
 In diesem Abschnitt der Unterrichtseinheit wird ein Algorithmus aus dem Bereich der Bioinformatik vorgestellt. 
-Für diesen Teil steht ein Aufgabenblatt mit einer praktischen Übung zur Verfügung.
+Für diesen Teil steht ein Aufgabenblatt mit einer praktischen Übung zur Verfügung. Auf diesem sind ebenso die 
+notwendigen Formeln für das Berechnen der Matrix sowie die Matrix selber abgebildet. Als erstes Aufgabenziel sollen 
+die SchülerInnen nach der Vorstellung der Funktionsweise die Berechnung auf dem Zettel durchführen. Zur Überprüfung soll 
+jeder einen Wert auf der Tafel vorrechnen. Für das Backtracking sollen die SchülerInnen versuchen selber darauf zu kommen,
+wie man nun aus einer berechneten Matrix das Sequenzalignment abliest. 
 
 #### Was soll gelernt werden?
 Die SchülerInnen sollen die Ausführung des Algoritmuses erlernen und verstehen.
@@ -37,4 +41,5 @@ Es wird ein Arbeitsblatt verwendet, welches zuerst von den SchülerInnen selbsts
 Nachdem alle die Tabelle gefüllt haben, wird das Beispiel auf der Tafel zu ende gerechnet.
 
 #### Diagnose 
-Das Vorrechnen der 
+Das Vorrechnen auf der Tafel sowie die Erklärung wie die Werte zu stande gekommen sind, sollten ausreichend sein um
+zu überprüfen ob der Rechenteil verstanden wurde. 
