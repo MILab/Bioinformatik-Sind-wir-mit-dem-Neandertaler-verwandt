@@ -33,9 +33,7 @@ import javax.swing.JOptionPane;
                 int spalte = mSeqB.length;
                 mWertung = bewertungs_matrix[reihe][spalte];
                 while (reihe > 0 && spalte > 0) {  
-                    int gleich = bewertungs_matrix[reihe-1][spalte-1] + vergleiche(reihe, spalte);
-                    int lueckeA = bewertungs_matrix[reihe][spalte-1] +luecke;
-                    int lueckeB = bewertungs_matrix[reihe-1][spalte] +luecke;
+                    a(spalte,reihe);
                         if (bewertungs_matrix[reihe][spalte] == gleich) {                          
                                 mAlignmentSeqA += mSeqA[reihe-1];
                                 mAlignmentSeqB += mSeqB[spalte-1];
