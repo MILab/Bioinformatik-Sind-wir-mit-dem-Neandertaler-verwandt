@@ -7,8 +7,9 @@ Die Durchführung von diesem Teil der Unterrichtsreihe wird in zwei Phasen aufge
 #### Wozu soll es gelernt werden?
 
 #### Welches Hintergrundwissen wird benötigt?
-
+Biologische Grundlagen zum Thema DNA
 #### Welche Voraussetzungen gibt es?
+Es sollten 
 
 #### Welche Vorkenntnisse werden benötigt?
 Programmierkenntnisse in der Programmiersprache Java sind vom Vorteil 
