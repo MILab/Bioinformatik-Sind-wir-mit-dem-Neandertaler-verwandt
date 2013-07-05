@@ -24,18 +24,18 @@ import javax.swing.JOptionPane;
         
         private void a(int spalte, int reihe) {
             gleich = bewertungs_matrix[reihe-1][spalte-1] + vergleiche(reihe, spalte);
-              lueckeA = bewertungs_matrix[reihe][spalte-1] +luecke;
-              lueckeB = bewertungs_matrix[reihe-1][spalte] +luecke;      
-    }
+            lueckeA = bewertungs_matrix[reihe][spalte-1] +luecke;
+            lueckeB = bewertungs_matrix[reihe-1][spalte] +luecke;      
+         }
 
-    void b() {
+        void b() {
                 int reihe = mSeqA.length;
                 int spalte = mSeqB.length;
                 mWertung = bewertungs_matrix[reihe][spalte];
                 while (reihe > 0 && spalte > 0) {  
                     int gleich = bewertungs_matrix[reihe-1][spalte-1] + vergleiche(reihe, spalte);
                     int lueckeA = bewertungs_matrix[reihe][spalte-1] +luecke;
-                        int lueckeB = bewertungs_matrix[reihe-1][spalte] +luecke;
+                    int lueckeB = bewertungs_matrix[reihe-1][spalte] +luecke;
                         if (bewertungs_matrix[reihe][spalte] == gleich) {                          
                                 mAlignmentSeqA += mSeqA[reihe-1];
                                 mAlignmentSeqB += mSeqB[spalte-1];
@@ -67,7 +67,7 @@ import javax.swing.JOptionPane;
                 }
                 mAlignmentSeqA = woerter_umkehren(mAlignmentSeqA);
                 mAlignmentSeqB = woerter_umkehren(mAlignmentSeqB);
-        }
+            }
 
         void d() {
             bewertungs_matrix = new int[mSeqA.length + 1][mSeqB.length + 1];
@@ -82,7 +82,7 @@ import javax.swing.JOptionPane;
                             }
                     }
             }
-    }
+        }
     
         private int c(int eins, int zwei, int drei){
           return Math.max(Math.max(eins, zwei), drei);
