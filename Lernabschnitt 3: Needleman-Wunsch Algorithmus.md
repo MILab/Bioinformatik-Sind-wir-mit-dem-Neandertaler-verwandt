@@ -1,17 +1,17 @@
 ## Needleman-Wunsch Algorithmus
 #### Durchführung der Einheit:
-Die Durchführung von diesem Teil der Unterrichtsreihe wird in zwei Phasen aufgeteilt. In der ersten sollen Grundlagen zum Algorithmus erklärt und erlernt werden. Diese werden mit einem Arbeitsblatt erarbeitet und von den Schülern auf der Tafel vorgerechnet.
-
+DIe SchülerInnen haben in den vorigen Phasen den Sinn der Sequenz- und Genomanalyse erlernt und verstanden. 
+In diesem Abschnitt der Unterrichtseinheit wird ein Algorithmus aus dem Berech der Bioinformatik vorgestellt. Für diesen Teil steht ein Aufgabenblatt mit einer praktischen Übung zur Verfügung.
 #### Was soll gelernt werden?
-
+Die SchülerInnen sollen die Anwendung und Ausführung des Algorithmuses erlernen und verstehen.
 #### Wozu soll es gelernt werden?
 
 #### Welches Hintergrundwissen wird benötigt?
-Biologische Grundlagen zum Thema DNA sollten beim Lehrer vorhanden sein. Die Bedeutung der Abkürzungen die für die einzelnen Basen stehen sollten ebenso erklärt werden können. 
+Biologische Grundlagen zum Thema DNA sollten beim Lehrer vorhanden sein. Die Bedeutung der Abkürzungen die für die einzelnen Basen stehen  sollten ebenso erklärt werden können.
+Falls  die vorigen Unterrichtsphasen nicht durchgeführt und angewendet wurden ist es ebenso möglich den Algorithmus durchzuführen. Dafür kann man beliebigen Text verwenden und demnentsprechend den Übungszettel umschreiben.
 
 #### Welche Voraussetzungen gibt es?
-Für die Durchführung dieser Lerneinheit sollte eine Tafel vorhanden sein.  
-
+Für die Durchführung dieser Lerneinheit sollte eine Tafel vorhanden sein. Vom Vorteil  wäre eine interaktive Tafel auf der die SchülerInnen die Matrix für den Algorithmus in die vorgefertigte Tabelle schreiben können. Bei einer  Zeichnung auf einer herkömmlichen Tafel, kann es oft sehr unübersichtlich und chaotisch wirken. 
 #### Welche Vorkenntnisse werden benötigt?
 Programmierkenntnisse in der Programmiersprache Java sind vom Vorteil 
 
