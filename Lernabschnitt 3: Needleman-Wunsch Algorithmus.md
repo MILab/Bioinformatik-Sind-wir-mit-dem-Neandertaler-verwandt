@@ -37,4 +37,4 @@ Es wird ein Arbeitsblatt verwendet, welches zuerst von den SchülerInnen selbsts
 Nachdem alle die Tabelle gefüllt haben, wird das Beispiel auf der Tafel zu ende gerechnet.
 
 #### Diagnose 
-
+Das Vorrechnen der 
