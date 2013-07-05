@@ -14,5 +14,5 @@ Anwendungsmöglihckeiten dieser Algorithmen zu zeigen, und andererseits einen EI
 
 Die Reihe kann nicht nur im Informatikunterricht, sondern auch im Biologieunterricht durchgeführt werden.
 
-Für den letzten Teil sind Programmierkenntnisse vorteilhaft.
+Für den letzten Teil sind Programmierkenntnisse vorteilhaft, da ein Java-Code gewartet werden soll.
 
