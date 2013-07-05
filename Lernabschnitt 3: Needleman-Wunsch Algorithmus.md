@@ -5,7 +5,7 @@ In diesem Abschnitt der Unterrichtseinheit wird ein Algorithmus aus dem Bereich 
 Für diesen Teil steht ein Aufgabenblatt mit einer praktischen Übung zur Verfügung. Auf diesem sind ebenso die 
 notwendigen Formeln für das Berechnen der Matrix sowie die Matrix selber abgebildet. Nachdem der Lehrer die Funktionsweise
 vom Algorithmus erklärt hat sollen die SchülerInnen als erstes Aufgabenziel die Berechnung auf dem Zettel durchführen. 
-Zur Überprüfung soll jeder einen Wert auf der Tafel vorrechnen. Für das Backtracking sollen die SchülerInnen versuchen 
+Zur Überprüfung soll jede/r SchülerIn einen Wert an der Tafel(am Beamer) vorrechnen. Für das Backtracking sollen die SchülerInnen versuchen 
 selber darauf zu kommen, wie man nun aus einer berechneten Matrix das Sequenzalignment abliest. 
 
 #### Was soll gelernt werden?
@@ -18,13 +18,13 @@ um den vierten Teil zu verstehen und durchführen zu können.
 
 #### Welches Hintergrundwissen wird benötigt?
 Biologische Grundlagen zum Thema DNA sollten beim Lehrer vorhanden sein. 
-Die Bedeutung der Abkürzungen die für die einzelnen Basen stehen  sollten ebenso erklärt werden können.
-Falls  die vorigen Unterrichtsphasen nicht durchgeführt und angewendet wurden ist es ebenso möglich den 
+Die Bedeutung der Abkürzungen die für die einzelnen Basen stehen sollten ebenso erklärt werden können.
+Falls die vorigen Unterrichtsphasen nicht durchgeführt und angewendet wurden ist es ebenso möglich den 
 Algorithmus durchzuführen. Dafür kann man beliebigen Text verwenden und dementsprechend den Übungszettel umschreiben.
 
 #### Welche Voraussetzungen gibt es?
 Für die Durchführung dieser Lerneinheit sollte eine Tafel vorhanden sein. 
-Vom Vorteil  wäre eine interaktive Tafel auf der die SchülerInnen die Matrix für den Algorithmus in die 
+Vom Vorteil wäre eine interaktive Tafel auf der die SchülerInnen die Matrix für den Algorithmus in die 
 vorgefertigte Tabelle schreiben können. Bei einer  Zeichnung auf einer herkömmlichen Tafel, 
 kann es oft sehr unübersichtlich und chaotisch wirken. 
 
