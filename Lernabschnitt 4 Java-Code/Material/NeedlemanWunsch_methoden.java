@@ -1,4 +1,10 @@
 import javax.swing.JOptionPane;
+/** 
+ * Ist eine endgültige Version des Needleman Wunsch Algorithmus mit einigen nichtsprechenden Methodennamen. 
+ * Nach einer Eingabe zweier Sequenzen wird eine Bewertungsmatrix und das Alignment zurückgegeben.  
+ * @author Mirjam Fabian
+ * @version 2.0
+ */
   public class NeedlemanWunsch_methoden {
     
         char[] mSeqA;
