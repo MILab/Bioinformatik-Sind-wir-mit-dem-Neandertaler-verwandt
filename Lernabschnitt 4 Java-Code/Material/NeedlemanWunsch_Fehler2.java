@@ -1,4 +1,10 @@
 import javax.swing.JOptionPane;
+/** 
+ * Ist eine fehlerhalte Version (zwei Fehler) des Needleman Wunsch Algorithmus. 
+ * Nach einer Eingabe zweier Sequenzen wird eine Bewertungsmatrix und das Alignment zurückgegeben.  
+ * @author Mirjam Fabian
+ * @version 2.0
+ */
 	public class NeedlemanWunsch_Fehler2 {
 		
         char[] mSeqA;
